@@ -3,8 +3,6 @@
 
 ---
 
-# Meraki Bandwidth Changer
-
 ## Overview
 
 The Meraki Bandwidth Changer is a Python script that allows you to update bandwidth limits for a Meraki network group policy using the Meraki Dashboard API. With this script, you can easily modify download and upload speed limits for specific network policies, providing granular control over bandwidth allocation in your Meraki network.
